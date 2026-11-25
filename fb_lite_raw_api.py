@@ -57,7 +57,7 @@ HEADERS = {
     "X-FB-Server-Cluster": "True",
 }
 
-# 100% Original 73-Parameter Payload from Frame 215 (00215_out_0NJ.AtH.bin)
+# 100% Original 73-Parameter Payload
 PAYLOAD = {
     "client_input_params": {
         "blocked_uids": [],
